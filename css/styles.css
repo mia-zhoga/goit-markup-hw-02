@@ -1,0 +1,144 @@
+body {
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  color: #434455;
+  background-color: #fcfcfc;
+}
+span {
+  color: #4d5ae5;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul,
+ol {
+  list-style: none;
+}
+.logo {
+  font-family: Raleway;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 18px;
+  line-height: 1.16;
+  letter-spacing: 3%;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+nav {
+  font-family: inherit;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  color: #2e2f42;
+}
+
+nav a:hover,
+nav a:focus {
+  color: #404bbf;
+}
+
+address {
+  font-family: inherit;
+  color: inherit;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+}
+address a:hover,
+address a:focus {
+  color: #404bbf;
+}
+
+.title,
+footer {
+  background-color: #2e2f42;
+}
+h1 {
+  font-family: inherit;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 2%;
+  text-align: center;
+  color: #ffffff;
+}
+button {
+  cursor: pointer;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 4%;
+  vertical-align: middle;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-family: inherit;
+}
+button:hover,
+button:focus {
+  background-color: #404bbf;
+}
+
+h3 {
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 2%;
+  color: #2e2f42;
+  font-family: inherit;
+}
+p {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  font-family: inherit;
+  color: inherit;
+}
+.team {
+  background-color: #f4f4fd;
+}
+h2 {
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 2%;
+  text-align: center;
+  font-family: inherit;
+  color: inherit;
+}
+.about_team {
+  text-align: center;
+}
+.team_color {
+  background-color: #ffffff;
+}
+.logo_footer {
+  font-family: Raleway;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 18px;
+  line-height: 1.16;
+  letter-spacing: 3%;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+.info_footer {
+  font-family: inherit;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  color: #f4f4fd;
+}
