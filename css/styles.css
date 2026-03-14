@@ -3,7 +3,7 @@ body {
   color: #434455;
   background-color: #fff;
 }
-.span {
+.logo-accent {
   color: #4d5ae5;
 }
 a {
@@ -33,8 +33,8 @@ ol {
   color: #2e2f42;
 }
 
-.nav .nav-link:hover,
-.nav .nav-link:focus {
+.nav-link:hover,
+.nav-link:focus {
   color: #404bbf;
 }
 
@@ -47,8 +47,8 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-address .contact-link:hover,
-address .contact-link:focus {
+.contact-link:hover,
+.contact-link:focus {
   color: #404bbf;
 }
 
