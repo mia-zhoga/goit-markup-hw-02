@@ -40,7 +40,7 @@ ol {
 
 .contact-link {
   font-family: inherit;
-  color: inherit;
+  color: #2e2f42;
   font-weight: 400;
   font-style: normal;
   font-size: 16px;
@@ -125,9 +125,11 @@ footer {
   text-transform: uppercase;
   color: #f4f4fd;
 }
-footer .logo-accent {
-  color: #f4f4fd;
+
+footer .logo_footer .logo-accent {
+  color: #4d5ae5;
 }
+
 .info_footer {
   font-family: inherit;
   font-weight: 400;
