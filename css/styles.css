@@ -1,9 +1,9 @@
 body {
   font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   color: #434455;
-  background-color: #fcfcfc;
+  background-color: #fff;
 }
-span {
+.span {
   color: #4d5ae5;
 }
 a {
@@ -17,26 +17,24 @@ ol {
 .logo {
   font-family: Raleway;
   font-weight: 700;
-  font-style: Bold;
   font-size: 18px;
   line-height: 1.16;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
 }
 
-nav {
+.nav {
   font-family: inherit;
   font-weight: 500;
-  font-style: Medium;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-nav a:hover,
-nav a:focus {
+.nav a:hover,
+.nav a:focus {
   color: #404bbf;
 }
 
@@ -47,7 +45,7 @@ address {
   font-style: normal;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 address a:hover,
 address a:focus {
@@ -58,23 +56,21 @@ address a:focus {
 footer {
   background-color: #2e2f42;
 }
-h1 {
+.h1 {
   font-family: inherit;
   font-weight: 700;
-  font-style: Bold;
   font-size: 56px;
   line-height: 1.07;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
 }
 button {
   cursor: pointer;
   font-weight: 500;
-  font-style: Medium;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   vertical-align: middle;
   color: #ffffff;
   background-color: #4d5ae5;
@@ -85,36 +81,33 @@ button:focus {
   background-color: #404bbf;
 }
 
-h3 {
+.h3 {
   font-weight: 500;
-  font-style: Medium;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   font-family: inherit;
 }
-p {
+.p {
   font-weight: 400;
-  font-style: Regular;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   font-family: inherit;
   color: inherit;
 }
 .team {
   background-color: #f4f4fd;
 }
-h2 {
+.h2 {
   font-weight: 700;
-  font-style: Bold;
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-align: center;
   font-family: inherit;
-  color: inherit;
+  color: #2e2f42;
 }
 .about_team {
   text-align: center;
@@ -125,10 +118,9 @@ h2 {
 .logo_footer {
   font-family: Raleway;
   font-weight: 700;
-  font-style: Bold;
   font-size: 18px;
   line-height: 1.16;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
   color: #f4f4fd;
@@ -136,9 +128,8 @@ h2 {
 .info_footer {
   font-family: inherit;
   font-weight: 400;
-  font-style: Regular;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
