@@ -24,7 +24,7 @@ ol {
   color: #2e2f42;
 }
 
-.nav {
+.nav-link {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
@@ -38,7 +38,7 @@ ol {
   color: #404bbf;
 }
 
-address {
+.contact-link {
   font-family: inherit;
   color: inherit;
   font-weight: 400;
@@ -123,6 +123,9 @@ footer {
   letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
+  color: #f4f4fd;
+}
+footer .logo-accent {
   color: #f4f4fd;
 }
 .info_footer {
