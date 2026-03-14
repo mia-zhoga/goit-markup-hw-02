@@ -18,7 +18,7 @@ ol {
   font-family: Raleway;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
@@ -33,8 +33,8 @@ ol {
   color: #2e2f42;
 }
 
-.nav a:hover,
-.nav a:focus {
+.nav .nav-link:hover,
+.nav .nav-link:focus {
   color: #404bbf;
 }
 
@@ -47,8 +47,8 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-address a:hover,
-address a:focus {
+address .contact-link:hover,
+address .contact-link:focus {
   color: #404bbf;
 }
 
@@ -65,7 +65,7 @@ footer {
   text-align: center;
   color: #ffffff;
 }
-button {
+.button {
   cursor: pointer;
   font-weight: 500;
   font-size: 16px;
@@ -76,8 +76,8 @@ button {
   background-color: #4d5ae5;
   font-family: inherit;
 }
-button:hover,
-button:focus {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 
@@ -119,7 +119,7 @@ button:focus {
   font-family: Raleway;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
