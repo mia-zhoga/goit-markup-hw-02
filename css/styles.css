@@ -108,13 +108,13 @@ footer {
   font-family: inherit;
   color: #2e2f42;
 }
-.about_team {
+.about-team {
   text-align: center;
 }
-.team_color {
+.team-color {
   background-color: #ffffff;
 }
-.logo_footer {
+.logo-footer {
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -124,11 +124,11 @@ footer {
   color: #f4f4fd;
 }
 
-.logo_footer .logo-accent {
+.logo-footer .logo-accent {
   color: #4d5ae5;
 }
 
-.info_footer {
+.info-footer {
   font-family: inherit;
   font-weight: 400;
   font-size: 16px;
