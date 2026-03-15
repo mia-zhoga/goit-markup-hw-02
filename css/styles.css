@@ -15,7 +15,7 @@ ol {
   list-style: none;
 }
 .logo {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -71,7 +71,6 @@ footer {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  vertical-align: middle;
   color: #ffffff;
   background-color: #4d5ae5;
   font-family: inherit;
@@ -116,17 +115,16 @@ footer {
   background-color: #ffffff;
 }
 .logo_footer {
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  vertical-align: middle;
   text-transform: uppercase;
   color: #f4f4fd;
 }
 
-footer .logo_footer .logo-accent {
+.logo_footer .logo-accent {
   color: #4d5ae5;
 }
 
