@@ -53,10 +53,10 @@ ol {
 }
 
 .title,
-footer {
+.footer {
   background-color: #2e2f42;
 }
-.h1 {
+.main-title {
   font-family: inherit;
   font-weight: 700;
   font-size: 56px;
@@ -80,7 +80,7 @@ footer {
   background-color: #404bbf;
 }
 
-.h3 {
+.third-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -99,7 +99,7 @@ footer {
 .team {
   background-color: #f4f4fd;
 }
-.h2 {
+.second-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
